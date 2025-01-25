@@ -1,0 +1,27 @@
+# langchain==0.0.352
+# sentence-transformers==2.2.2
+# chromadb==0.4.22
+# python-dotenv==1.0.0
+# transformers==4.36.2
+# torch==2.1.2
+
+# langchain>=0.0.352,<0.1.0  # Stay in a stable range to avoid major breaking changes
+# sentence-transformers>=2.2.2,<2.3.0  # Use the latest compatible version
+# chromadb>=0.4.22,<0.5.0  # Use compatible versions with langchain
+# python-dotenv>=1.0.0  # No strict pinning needed for dotenv
+# transformers>=4.36.2,<4.39.0  # Allow updates but avoid potential breaking changes
+# torch>=2.0.0,<2.3.0  # Keep compatible with transformers and avoid unnecessary restrictions
+# beautifulsoup4==4.12.2
+# requests==2.31.0
+# lxml==4.9.3
+# huggingface_hub>=0.19.3,<1.0
+# tokenizers>=0.13.2,<0.16.0
+
+langchain>=0.0.352,<0.1.0
+openai>=1.6.1,<2.0.0
+chromadb>=0.4.22,<0.5.0
+python-dotenv>=1.0.0
+requests>=2.31.0,<3.0.0
+beautifulsoup4>=4.12.2,<5.0.0
+lxml>=4.9.3,<5.0.0
+tiktoken>=0.1.0
