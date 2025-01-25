@@ -1,4 +1,4 @@
-# Enhanced LangChain Chatbot with OpenAI and Chroma DB
+# LangChain Chatbot with OpenAI and Chroma DB
 
 This is an advanced chatbot implementation using LangChain, OpenAI models, and Chroma DB. The chatbot can answer questions based on the LangChain documentation and other embedded knowledge, stored efficiently in a persistent vector database.
 
